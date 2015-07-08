@@ -6,9 +6,6 @@
     "Material Design Lite team"
   ],
   "description": "Material Design Components in CSS, JS and HTML",
-  "main": [
-    "/src"
-  ],
   "keywords": [
     "material",
     "design",
