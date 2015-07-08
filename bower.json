@@ -6,10 +6,6 @@
     "Material Design Lite team"
   ],
   "description": "Material Design Components in CSS, JS and HTML",
-  "main": [
-    "material.min.css",
-    "material.min.js"
-  ],
   "keywords": [
     "material",
     "design",
@@ -19,6 +15,9 @@
   ],
   "license": "Apache-2",
   "ignore": [
+    "node_modules",
+    "bower_components",
+    "./lib/.bower_components",
     "test",
     "tests"
   ]
